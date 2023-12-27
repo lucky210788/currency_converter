@@ -8,7 +8,7 @@ const StyledDiv = styled.div`
   width: 100%;
   min-height: 100vh;
   background: rgb(234,234,254);
-  background: linear-gradient(190deg, rgba(234,234,254,1) 0%, rgba(255,255,255,1) 40%);
+  background: linear-gradient(190deg, rgba(234,234,254,1) 0%, rgba(255,255,255,1) 68%);
   text-align: center;
   padding-top: 20px;
 `;
