@@ -10,7 +10,7 @@ const StyledDiv = styled.div`
   background: #fff;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.05);
   width: 320px;
-  margin: auto;
+  margin: 20px auto;
   padding: 20px;
 `;
 
